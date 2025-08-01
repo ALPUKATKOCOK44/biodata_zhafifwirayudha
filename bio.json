@@ -1,0 +1,20 @@
+{
+    "nama" : "Zhafif Wirayudha", 
+    "tempat_lahir" : "Bandung",
+    "tanggal_lahir" : "2008-08-28",
+    "alamat" : {
+        "jalan" : "Kp.Manglid RT 03 / RW 11",
+        "desa" : "Margahayu",
+        "kecamatan" : "Margahayu Selatan"
+    },
+    "hobi" : [
+        "Bermain Game",
+        "Menonton"   
+    ],
+    "kontak" : {
+        "email" : "zhafifwirayudhamarhas@gmail.com",
+        "instagram" : "zhfif_f",
+        "github" : "ALPUKATKOCOK44",
+        "whatsapp" : "08587635987538"
+    }
+}
