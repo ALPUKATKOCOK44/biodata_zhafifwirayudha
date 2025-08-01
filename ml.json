@@ -1,0 +1,135 @@
+[
+    {
+        "nama" : "Ling",
+        "counter" : [
+            "Atlas",
+            "Gloo",
+            "Hanzo",
+            "X-Borg",
+            "Gord"
+        ],
+        "winrate" : "47.58%",
+        "pickrate" : "0.75%",
+        "banrate" : "2.04%",
+        "role" : [
+            "Assasin"
+        ],
+        
+        "skil" : [
+            "Finch poise",
+            "Defiant sword",
+            "Templest of blades"
+        ]
+    },
+
+    {
+        "nama" : "Fanny",
+        "counter" : [
+            "Atlas",
+            "Gloo",
+            "Lolita",
+            "Grenger",
+            "Carmila"
+        ],
+        "winrate" : "42.43%",
+        "pickrate" : "0.63%",
+        "banrate" : "17.39%",
+        "role" : [
+            "Assasin"
+        ],   
+        "skil" : [
+            "Tornado Strike",
+            "Steel Cable",
+            "Cut Throat"
+        ]
+    },
+
+    {
+        "nama" : "Yi-sun shin",
+        "counter" : [
+            "Beneddeta",
+            "Melissa",
+            "Valir",
+            "Khufra",
+            "Yin"
+        ],
+        "winrate" : "55.23%",
+        "pickrate" : "0.77%",
+        "banrate" : "62.78%",
+        "role" : [
+            "Assasin",
+            "Marksman"
+        ],   
+        "skil" : [
+            "Traceless",
+            "Blood Floods",
+            "Mountain Shocker"
+        ]
+    },
+
+    {
+        "nama" : "Hayabusa",
+        "counter" : [
+            "Ammon",
+            "Nolan",
+            "Gord",
+            "Novaria",
+            "Alice"
+        ],
+        "winrate" : "49.68%",
+        "pickrate" : "1.09%",
+        "banrate" : "59.64%",
+        "role" : [
+            "Assasin"
+        ],   
+        "skil" : [
+            "Ninjutsu : Phantom Shuriken",
+            "Ninjutsu : Quad Shadow",
+            "Ougi : Shadow kill"
+        ]
+    },
+
+    {
+        "nama" : "Lancelot",
+        "counter" : [
+            "Atlas",
+            "Baxia",
+            "X-Borg",
+            "Alpha",
+            "Terizla"
+        ],
+        "winrate" : "49.94%",
+        "pickrate" : "2.29%",
+        "banrate" : "27.34%",
+        "role" : [
+            "Assasin"
+        ],   
+        "skil" : [
+            "Puncture",
+            "Thorned Rose",
+            "Phantom Exucution"
+        ]
+    },
+
+    {
+        "nama" : "Joy",
+        "counter" : [
+            "X-Borg",
+            "Lolita",
+            "Beatrix",
+            "Sun",
+            "Atlas"
+        ],
+        "winrate" : "46.99%",
+        "pickrate" : "0.32%",
+        "banrate" : "2.97%",
+        "role" : [
+            "Assasin"
+        ],   
+        "skil" : [
+            "Look,Leonin Crystal",
+            "Meow,Rhythm of Joy",
+            "HA,Electriying Beats"
+        ]
+    }
+]
